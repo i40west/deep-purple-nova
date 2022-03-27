@@ -2,7 +2,7 @@
 
 A relaxing dark purple theme for your [Nova](https://nova.app) coding comfort.
 
-![Screenshot](https://github.com/i40west/deep-purple-nova/blob/main/deep-purple.novaextension/Images/screenshot.png?raw=true)
+![Screenshot](./Images/extension/screenshot.png)
 
 ## Acknowledgements
 
