@@ -4,5 +4,7 @@
     "organization": "There Is No Organization",
     "description": "A relaxing dark purple theme for your coding comfort.",
     "version": "1.0.0",
-    "categories": ["themes"]
+    "categories": ["themes"],
+    "repository": "https://github.com/i40west/deep-purple-nova",
+    "bugs": "https://github.com/i40west/deep-purple-nova/issues"
 }
