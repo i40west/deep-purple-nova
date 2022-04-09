@@ -284,7 +284,8 @@ definition.method.name {
 tag {
     color: hsl(61, 100%, 80%);
 }
-tag.name {
+tag.name,
+tag.php.framework.name {
     color: hsl(46, 65%, 70%);
 }
 tag.framework {
@@ -300,7 +301,8 @@ tag.html.attribute.name {
 tag.framework.attribute.name {
     color: hsl(320, 60%, 70%);
 }
-tag.attribute.value {
+tag.attribute.value,
+tag.attribute.media {
     color: hsl(270, 80%, 80%);
 }
 tag.attribute.value.delimiter {
@@ -317,6 +319,10 @@ tag.go-template {
 }
 tag.html.name {
     color: hsl(40, 85%, 65%);
+}
+tag.framework.start,
+tag.framework.end {
+    color: hsl(61, 100%, 80%);
 }
 
 /* Styles */
@@ -361,6 +367,10 @@ style.value.color.named {
 }
 style.value.identifier.function {
     color: hsl(220, 100%, 85%);
+}
+css.style.media-feature.keyword,
+css.style.media-query-list.feature {
+    color: hsl(235, 100%, 80%);
 }
 
 toml.markup.bold.name {
