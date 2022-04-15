@@ -1,3 +1,7 @@
+## Version 1.1.1
+
+Little tweaks for Javascript and shell script.
+
 ## Version 1.1.0
 
 Tweaks for PHP, HTML, and CSS.
