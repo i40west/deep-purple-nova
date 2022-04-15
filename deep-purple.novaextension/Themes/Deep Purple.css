@@ -94,7 +94,8 @@ meta.gutter.selected {
 
 
 /* Syntax styles */
-comment {
+comment,
+javascript.comment.block {
     color: hsl(226, 19%, 50%);
 }
 processing {
@@ -255,7 +256,8 @@ markup.strikethrough {
 markup.list.item {
     color: hsl(27, 100%, 70%);
 }
-markup.code {
+markup.code,
+heredoc {
     background-color: rgba(128, 128, 128, 0.1);
 }
 markup.link {
