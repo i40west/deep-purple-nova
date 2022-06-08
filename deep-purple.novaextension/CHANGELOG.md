@@ -1,3 +1,7 @@
+## Version 1.1.2
+
+Little tweaks for HTML/XML, CSS, and Hugo templates.
+
 ## Version 1.1.1
 
 Little tweaks for Javascript and shell script.

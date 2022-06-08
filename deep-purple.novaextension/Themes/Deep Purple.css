@@ -207,6 +207,9 @@ identifier.argument.prefix {
 identifier.function.macro {
     color: hsl(29, 75%, 80%);
 }
+go.identifier.property.name {
+    color: hsl(225, 85%, 80%);
+}
 
 /* Strings */
 string {
@@ -311,7 +314,7 @@ tag.attribute.value.delimiter {
     color: hsl(63, 70%, 60%);
 }
 tag.attribute.operator {
-    color: hsl(210, 50%, 70%);
+    color: hsl(300, 100%, 70%);
 }
 tag.attribute.value.link {
     color: hsl(210, 100%, 70%);
@@ -356,7 +359,7 @@ style.attribute.identifier.name {
     color: hsl(290, 90%, 82%);
 }
 style.value.number {
-    color: hsl(45, 55%, 65%);
+    color: hsl(48, 70%, 60%);
 }
 style.value.color.hex {
     color: hsl(7, 50%, 80%);
