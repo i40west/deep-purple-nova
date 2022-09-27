@@ -391,6 +391,10 @@ yaml.string {
     color: hsl(272, 100%, 78%);
 }
 
+json.key.double-quoted.name {
+    color: hsl(210, 100%, 80%);
+}
+
 rust.block,
 perl.block,
 javascript.block { /* text the syntax doesn't assign to anything */

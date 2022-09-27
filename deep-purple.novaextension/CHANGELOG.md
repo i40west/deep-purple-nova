@@ -1,3 +1,7 @@
+## Version 1.1.3
+
+JSON keys should get their own color, it's only fair.
+
 ## Version 1.1.2
 
 Little tweaks for HTML/XML, CSS, and Hugo templates.
