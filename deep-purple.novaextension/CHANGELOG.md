@@ -1,3 +1,7 @@
+## Version 1.1.4
+
+A couple quick fixes for Nova 10.
+
 ## Version 1.1.3
 
 JSON keys should get their own color, it's only fair.

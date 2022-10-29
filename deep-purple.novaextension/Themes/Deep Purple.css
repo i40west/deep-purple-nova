@@ -6,7 +6,7 @@ meta {
 
 /* Window styles */
 meta.window {
-    background-color: hsl(275, 100%, 11%);
+    background-color: hsl(275, 100%, 8%);
     border-color: hsla(0, 0%, 100%, 0.1);
 }
 meta.titlebar {
@@ -196,7 +196,7 @@ identifier.method {
     color: hsl(250, 100%, 77%);
 }
 identifier.key {
-    color: hsl(270, 80%, 80%);
+    color: hsl(210, 100%, 80%);
 }
 identifier.argument {
     color: hsl(270, 80%, 80%);
@@ -213,7 +213,7 @@ go.identifier.property.name {
 
 /* Strings */
 string {
-    color: hsl(255, 100%, 85%);
+    color: hsl(272, 100%, 81%);
 }
 string.delimiter {
     color: hsl(63, 70%, 60%);
