@@ -145,7 +145,7 @@ keyword.perl.pragmas {
 
 /* Values */
 value.boolean {
-    color: hsl(210, 100%, 70%);
+    color: hsl(30, 90%, 70%);
 }
 value.null {
     color: hsl(210, 100%, 70%);
@@ -184,17 +184,15 @@ identifier.global.prefix,
 identifier.variable.prefix {
     color: hsl(280, 60%, 70%);
 }
-identifier.property {
-    color: hsl(260, 75%, 80%);
-}
 identifier.property.prefix {
     color: hsl(250, 60%, 75%);
 }
 identifier.decorator,
 identifier.function,
 identifier.method {
-    color: hsl(250, 100%, 77%);
+    color: hsl(278, 100%, 78%);
 }
+identifier.property,
 identifier.key {
     color: hsl(210, 100%, 80%);
 }

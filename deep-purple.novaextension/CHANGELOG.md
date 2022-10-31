@@ -1,3 +1,7 @@
+## Version 1.1.5
+
+More Nova 10 tweaks.
+
 ## Version 1.1.4
 
 A couple quick fixes for Nova 10.
